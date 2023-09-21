@@ -1,0 +1,15 @@
+.text {
+    letter-spacing: 4px;
+
+    text-decoration: underline;
+
+    border: 3px #1ba000 solid
+
+}
+
+
+.block {
+    text-indent: 25px;
+
+    text-transform: capitalize;
+}
