@@ -1,0 +1,10 @@
+.block{
+    height: 100px;
+    width: 100px;
+
+    border-bottom: 8px red dotted;
+    border-top: 20px blue solid;
+    border-left: 15px green dashed;
+    border-right: 5px darkorchid dotted
+    ;
+}
