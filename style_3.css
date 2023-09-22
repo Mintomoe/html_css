@@ -1,0 +1,7 @@
+.block {
+    width: 100px;
+    height: 100px;
+    border: 4px red solid;
+    padding: 20px 40px 20px 40px;
+padding-top: 40px;
+}
